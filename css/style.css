@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: bisque;
+    margin-left: auto;
+}
+
+h2{
+    color: bisque;
+    margin-left: auto;
+}
+
+h3{
+    color: aqua;
+    margin-left: auto;
+}
+
+#output{
+    color: blueviolet;
+}
+
+p{
+    color: darkorange;
+}
+
+.c1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.c2{
+    color: orangered;
+}
+
